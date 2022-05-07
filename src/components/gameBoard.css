@@ -1,0 +1,10 @@
+.vis {
+  background-color: white;
+  display: inline-block;
+}
+
+.invis {
+  background-color: white;
+  color: white;
+  display: inline-block;
+}
